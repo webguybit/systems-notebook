@@ -1,4 +1,4 @@
-## SSH File Transfer to/from UBUNTU s
+## SSH File Transfer to/from UBUNTU
 
 ### From Linux/MacOS operating systems
 
