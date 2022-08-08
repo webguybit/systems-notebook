@@ -16,7 +16,9 @@ Please follow the steps below to install OpenVPN RoadWarrior:
 
 - **Run the script:** Run the script copying and pasting the following command and follow the instructions.
 
-    `. openvpn-install.sh`
+    ```bash
+    . openvpn-install.sh
+    ```
     
     > *Please make sure you are copying starting from the dot(.) following the blank space in the command.*
 
@@ -27,7 +29,8 @@ Please follow the steps below to install OpenVPN RoadWarrior:
 
 - **Create another ovpn profile:** Next time you want to create another client profile for your another device, please just run the script again and follow the instructions. This time it will only create new profile for the new device. Running script instruction is same as the previous one.
 
-    `. openvpn-install.sh`
-    
+    ```bash
+    . openvpn-install.sh
+    ```
     > *Please make sure you are copying starting from the dot(.) following the blank space in the command.*
 - **Transfrer ovpn profile to device:** Next step is to transfer the client profile to your device. You can do it either by `SFTP` or `scp` protocol.
